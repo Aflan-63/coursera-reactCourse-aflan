@@ -1,0 +1,30 @@
+{
+  "name": "weekone",
+  "version": "1.0.0",
+  "description": "\"This is a test directory to learn Git and Node\"",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aflan-63/coursera-reactCourse-aflan.git"
+  },
+  "keywords": [
+    "test",
+    "Coursera",
+    "Week",
+    "Weekly"
+  ],
+  "author": "Aflan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aflan-63/coursera-reactCourse-aflan/issues"
+  },
+  "homepage": "https://github.com/Aflan-63/coursera-reactCourse-aflan#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
